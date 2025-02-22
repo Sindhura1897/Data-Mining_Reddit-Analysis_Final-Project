@@ -30,6 +30,19 @@ This project analyzes the relevance of Reddit comments to posts by assigning rat
 
 ## 📸 Visuals  
 
+### 🧩 Design Thinking Process Flowchart  
+This flowchart illustrates the end-to-end approach taken in the project, from data acquisition to relevance scoring.  
+![Design Thinking Process](https://github.com/Sindhura1897/Data-Mining_Reddit-Analysis_Final-Project/blob/main/images/design_thinking_flowchart.png)  
+
+### 🔍 LDA + MiniLM Clustering  
+Visualization of how the LDA + MiniLM model clusters Reddit comments based on relevance.  
+![LDA + MiniLM Clustering](https://github.com/Sindhura1897/Data-Mining_Reddit-Analysis_Final-Project/blob/main/images/lda_minilm_clustering.png)  
+
+### 📊 LDA + MiniLM Clustering Scores  
+The final relevance scores assigned to clusters using the custom scoring metric.  
+![LDA + MiniLM Clustering Scores](https://github.com/Sindhura1897/Data-Mining_Reddit-Analysis_Final-Project/blob/main/images/lda_minilm_scores.png)  
+
+
 
 ## 🚀 Future Work  
 - Improve the relevance metric by introducing weighted factors.  
