@@ -40,7 +40,7 @@ Visualization of how the LDA + MiniLM model clusters Reddit comments based on re
 
 📊 LDA + MiniLM Clustering Scores  
 The final relevance scores assigned to clusters using the custom scoring metric.  
-![LDA + MiniLM Clustering Scores](Images/lda_minilm_scores.png)  
+![LDA + MiniLM Clustering Scores](Images/lda_minilm_clustering_scores.png)  
  
 
 
