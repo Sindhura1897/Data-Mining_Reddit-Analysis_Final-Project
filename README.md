@@ -32,15 +32,15 @@ This project analyzes the relevance of Reddit comments to posts by assigning rat
 
 🧩 Design Thinking Process Flowchart  
 This flowchart illustrates the end-to-end approach taken in the project, from data acquisition to relevance scoring.  
-![Design Thinking Process](images/design_thinking_process_flowchart.png)  
+![Design Thinking Process](Images/design_thinking_process_flowchart.png)  
 
 🔍 LDA + MiniLM Clustering  
 Visualization of how the LDA + MiniLM model clusters Reddit comments based on relevance.  
-![LDA + MiniLM Clustering](images/lda_minilm_clustering.png)  
+![LDA + MiniLM Clustering](Images/lda_minilm_clustering.png)  
 
 📊 LDA + MiniLM Clustering Scores  
 The final relevance scores assigned to clusters using the custom scoring metric.  
-![LDA + MiniLM Clustering Scores](images/lda_minilm_scores.png)  
+![LDA + MiniLM Clustering Scores](Images/lda_minilm_scores.png)  
  
 
 
